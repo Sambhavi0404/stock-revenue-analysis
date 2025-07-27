@@ -1,11 +1,11 @@
-# 📊 Tesla & GameStop Stock and Revenue Analysis  
+#  Tesla & GameStop Stock and Revenue Analysis  
 
 This repository contains my **peer-graded assignment** for the IBM Data Science course:  
 **Analyzing Historical Stock/Revenue Data and Building a Dashboard.**  
 
 ---
 
-## ✅ Project Overview  
+##  Project Overview  
 
 As a data scientist working for an investment firm, the goal of this project is to:  
 
@@ -16,7 +16,7 @@ As a data scientist working for an investment firm, the goal of this project is 
 
 ---
 
-## 📂 Notebook Sections  
+##  Notebook Sections  
 
 1. **Question 1:** Extract Tesla Stock Data with yfinance  
 2. **Question 2:** Scrape Tesla Revenue Data with BeautifulSoup  
@@ -27,7 +27,7 @@ As a data scientist working for an investment firm, the goal of this project is 
 
 ---
 
-## 🛠 Technologies Used  
+##  Technologies Used  
 
 - **Python**  
 - **Jupyter Notebook**  
@@ -39,10 +39,8 @@ As a data scientist working for an investment firm, the goal of this project is 
 
 ---
 
-## 📸 Key Outputs  
+##  Key Outputs  
 
-✅ Extracted stock & revenue data for **Tesla** and **GameStop**  
-✅ Cleaned and processed the data (removed missing values & special characters)  
-✅ Built an interactive **dual graph dashboard** showing **stock price vs revenue**  
-
----
+1. Extracted stock & revenue data for **Tesla** and **GameStop**  
+2. Cleaned and processed the data (removed missing values & special characters)  
+3. Built an interactive **dual graph dashboard** showing **stock price vs revenue**  
